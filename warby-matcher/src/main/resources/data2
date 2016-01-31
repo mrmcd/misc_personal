@@ -1,0 +1,14 @@
+6
+a,b,c
+a,*,*
+a,*,c
+a,c,*
+z,y,x
+z,y,*
+6
+/a/b/c
+a/x/d
+a/c/c/
+lol/nope/not/here
+/z/y/x
+/a/b
